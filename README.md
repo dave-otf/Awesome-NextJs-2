@@ -122,6 +122,7 @@
 - [cna-chakra-ui-template](https://github.com/imadatyatalah/cna-chakra-ui-template) - [demo](https://cna-chakra-ui-template.vercel.app/)
 - [Startup - Free Next.js Startup Website Template](https://github.com/NextJSTemplates/startup-nextjs) - [demo](https://startup.nextjstemplates.com/)
 - [supastarter](https://supastarter.dev/) - [demo](https://demo.supastarter.dev/) `$`
+- [OTF SaaS Dashboard](https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=awesome-listing&utm_content=2026-10-18-saas-re50urces-nextjs) - [demo](https://saas.otf-kit.dev/) Production-ready Next.js 14 SaaS dashboard starter with auth, Stripe billing, workspaces, and team management. `$` ($99)
 
 #### docs templates
 - [nextra-theme-docs](https://github.com/vercel/swr-site) - [demo](https://swr.vercel.app/)
